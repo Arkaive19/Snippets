@@ -1,0 +1,12 @@
+#A1bd48,
+#00b441,
+#5c7f6d,
+#274b35,
+#201626
+
+#201626;  // 45% - background 
+#5C7F6D;  // 20% - secondary
+#274B35;  // 15% - detail accents
+#00B441;  // 12% - glow effect / strong accents
+#A1BD48;  // 8% - primary 
+#e9f4f7   // 2% - text
